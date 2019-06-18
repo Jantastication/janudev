@@ -1,4 +1,8 @@
-* html {
+body {
+  background: #444;
+  color: #fff; }
+
+/* * html {
   font-size: calc(1em + 0.5vw);
 }
 
@@ -165,4 +169,4 @@ a {
   100% {
     background: #f44336;
   }
-}
+} */
