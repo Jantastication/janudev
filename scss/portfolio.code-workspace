@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "janudev",
+		"path": "/Users/Janu/Development/code/janudev"
+	},
+	{
+		"name": "scss",
+		"path": "/Users/Janu/Downloads/fontawesome-free-5.9.0-web/scss"
+	},
+	{
+		"name": "webfonts",
+		"path": "/Users/Janu/Downloads/fontawesome-free-5.9.0-web/webfonts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "janudev"
+  }
+}
