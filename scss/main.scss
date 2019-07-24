@@ -107,6 +107,11 @@ main {
   }
 
   .job {
+    h3 {
+      text-decoration: underline;
+      // color: #fff;
+    }
+
     background: lighten($primary-color, 5);
     padding: 0.5rem;
     border-bottom: $secondary-color 5px solid;
@@ -116,10 +121,6 @@ main {
     font-family: "Open Sans", sans-serif;
     color: #007fff;
     text-align: center;
-
-    h3 {
-      text-decoration: underline;
-    }
   }
 }
 
