@@ -3,18 +3,20 @@
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
   "main": "index.js",
-  "homepage": "https://Jantastication.github.io/janudev",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jantastication/janudev.git"
   },
   "author": "Janu Orega",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Jantastication/janudev/issues"
   },
+  "homepage": "https://github.com/Jantastication/janudev#readme",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0"
   }
 }
