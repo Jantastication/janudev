@@ -145,7 +145,7 @@ main {
     border: 3px #fff solid;
 
     &:hover {
-      opacity: 0.5;
+      opacity: 0.7;
       border-color: $secondary-color;
       @include easeOut;
     }
@@ -163,7 +163,7 @@ main {
   div {
     font-size: 2rem;
     border: 3px #fff solid;
-    padding: 1.5rem 2.5rem;
+    padding: 1.5rem 4.5rem;
     margin-bottom: 3rem;
     @include easeOut;
 
